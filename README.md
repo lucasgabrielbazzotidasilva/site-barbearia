@@ -1,5 +1,7 @@
 # 💈 Barbershop — Site de Barbearia (Projeto de Portfólio)
 
+![Preview do site Barbershop](./screenshot.png)
+
 Projeto desenvolvido para portfólio, simulando o site institucional de uma barbearia premium. O objetivo foi praticar desenvolvimento front-end moderno com React, criando uma landing page completa, responsiva e com boa experiência de usuário — do primeiro contato até o agendamento do serviço.
 
 🔗 **Demo ao vivo:** [site-barbearia-sable.vercel.app](https://site-barbearia-sable.vercel.app/)
